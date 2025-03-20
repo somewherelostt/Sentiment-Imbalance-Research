@@ -1,7 +1,3 @@
-Here’s a structured **README.md** for your GitHub repository:  
-
----
-
 # Sentiment Analysis on Imbalanced Dataset  
 
 ## Overview  
